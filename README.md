@@ -12,6 +12,6 @@ Automate cost savings by:
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/your-username/do-weekend-cost-saver.git
+git clone https://github.com/aksprat/snapshot-delete-recreate.git
 cd do-weekend-cost-saver
 ./setup.sh
